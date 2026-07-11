@@ -14,4 +14,4 @@
   <sup>1</sup>College of Electronic Science and Engineering, Jilin University &nbsp;
 </p>
 
-**For dataset links, check out Datasets.md**
+**For dataset links, check out Datasets.md. Note that, for person ReID datasets, Datasets.md only contains part of them. For the rest datasets, check out following link:** [PersonReID-Part1](https://github.com/CHT05017/PersonReID-Datsets-Part1)
