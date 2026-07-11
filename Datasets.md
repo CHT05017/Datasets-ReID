@@ -6,6 +6,8 @@ Date: 2026.7.11
 
 ## Person Re-Identification (Person ReID)
 
+> ⚠️ **Important:** The table below only contains **part** of the Person ReID datasets — those with direct download links. The remaining datasets are stored as `.zip` files in the repository **[PersonReID-Datsets-Part1](https://github.com/CHT05017/PersonReID-Datsets-Part1)**, including: `3DPeS.zip`, `CAVIAR4REID.zip`, `CUHK01.zip`, `CUHK02.zip`, `ETHZ.zip`, `GRID.zip`, `PKU-ReID-Dataset.zip`, `QMUL-iLIDS.zip`, `RAiD.zip`, `VIPeR.zip`, `WARD.zip`. See the bottom of this table for details.
+
 | # | Dataset | Link | Accessed |
 |---|---------|------|----------|
 | 1 | CASIA Gait Database | [CASIA_Gait_Database](http://www.cbsr.ia.ac.cn/english/Gait%20Databases.asp) | 2025-07-02 |
@@ -34,6 +36,17 @@ Date: 2026.7.11
 | 24 | iLIDS-VID | [iLIDS-VID](https://pan.baidu.com/s/1cmuyHFXplnnw9OHZuHXgNw) (code: `exuf`) | 2025-05-10 |
 | 25 | SoccerNet | [SoccerNet](https://silviogiancola.github.io/SoccerNet/) | 2025-07-02 |
 | 26 | LAGPeR | [LAGPeR](https://drive.google.com/file/d/1Jd_8NDFb65z7EM3pratCdSOBcySm59eJ/view?usp=drive_link) | N/A |
+| 27 | 3DPeS (.zip) | [3DPeS](https://github.com/CHT05017/PersonReID-Datsets-Part1) | N/A |
+| 28 | CAVIAR4REID (.zip) | [CAVIAR4REID](https://github.com/CHT05017/PersonReID-Datsets-Part1) | N/A |
+| 29 | CUHK01 (.zip) | [CUHK01](https://github.com/CHT05017/PersonReID-Datsets-Part1) | N/A |
+| 30 | CUHK02 (.zip) | [CUHK02](https://github.com/CHT05017/PersonReID-Datsets-Part1) | N/A |
+| 31 | ETHZ (.zip) | [ETHZ](https://github.com/CHT05017/PersonReID-Datsets-Part1) | N/A |
+| 32 | GRID (.zip) | [GRID](https://github.com/CHT05017/PersonReID-Datsets-Part1) | N/A |
+| 33 | PKU-ReID-Dataset (.zip) | [PKU-ReID-Dataset](https://github.com/CHT05017/PersonReID-Datsets-Part1) | N/A |
+| 34 | QMUL-iLIDS (.zip) | [QMUL-iLIDS](https://github.com/CHT05017/PersonReID-Datsets-Part1) | N/A |
+| 35 | RAiD (.zip) | [RAiD](https://github.com/CHT05017/PersonReID-Datsets-Part1) | N/A |
+| 36 | VIPeR (.zip) | [VIPeR](https://github.com/CHT05017/PersonReID-Datsets-Part1) | N/A |
+| 37 | WARD (.zip) | [WARD](https://github.com/CHT05017/PersonReID-Datsets-Part1) | N/A |
 
 ---
 
