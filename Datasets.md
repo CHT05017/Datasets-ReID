@@ -6,7 +6,7 @@ Date: 2026.7.11
 
 ## Person Re-Identification (Person ReID)
 
-> ⚠️ **Important:** The table below only contains **part** of the Person ReID datasets — those with direct download links. The remaining datasets are stored as `.zip` files in the repository **[PersonReID-Datsets-Part1](https://github.com/CHT05017/PersonReID-Datsets-Part1)**, including: `3DPeS.zip`, `CAVIAR4REID.zip`, `CUHK01.zip`, `CUHK02.zip`, `ETHZ.zip`, `GRID.zip`, `PKU-ReID-Dataset.zip`, `QMUL-iLIDS.zip`, `RAiD.zip`, `VIPeR.zip`, `WARD.zip`. See the bottom of this table for details.
+> **Important:** The table below only contains **part** of the Person ReID datasets — those with direct download links. The remaining datasets are stored as `.zip` files in the repository **[PersonReID-Datsets-Part1](https://github.com/CHT05017/PersonReID-Datsets-Part1)**, including: `3DPeS.zip`, `CAVIAR4REID.zip`, `CUHK01.zip`, `CUHK02.zip`, `ETHZ.zip`, `GRID.zip`, `PKU-ReID-Dataset.zip`, `QMUL-iLIDS.zip`, `RAiD.zip`, `VIPeR.zip`, `WARD.zip`. See the bottom of this table for details.
 
 | # | Dataset | Link | Accessed |
 |---|---------|------|----------|
